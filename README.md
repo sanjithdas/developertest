@@ -1,3 +1,14 @@
+
+Steps to setup the project.
+
+First, download composer and download the Laravel installer using Composer:
+1. Composer create-project Laravel/Laravel  
+2. Laravel new developertest
+3. Use the artisan command to start the server – php artisan serve
+  (I have used laravel 8.75 for this project)
+
+
+
 ## Developer Test
 
 ### Overview
